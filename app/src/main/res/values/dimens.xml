@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="smallPadding">8dp</dimen>
+    <dimen name="normalPadding">16dp</dimen>
+
+    <dimen name="xSmallMargin">4dp</dimen>
+    <dimen name="smallMargin">8dp</dimen>
+    <dimen name="normalMargin">16dp</dimen>
+    <dimen name="largeMargin">24dp</dimen>
+    <dimen name="xLargeMargin">32dp</dimen>
+
+    <dimen name="normalFont">16sp</dimen>
+</resources>
